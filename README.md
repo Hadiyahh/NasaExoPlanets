@@ -380,42 +380,6 @@ npm run dev
 
 ---
 
-## 📁 Project Structure
-
-```text
-NasaExoPlanets/
-├── backend/
-│   ├── app.py
-│   ├── utils.py
-│   ├── requirements.txt
-│   ├── howToRun.md
-│   └── dev.sh
-│
-├── data/
-│   └── raw/
-│
-├── frontend/
-│   ├── src/
-│   ├── package.json
-│   ├── vite.config.ts
-│   └── ...
-│
-├── notebooks/
-│   ├── models/
-│   ├── baseline_model.ipynb
-│   ├── modified_model.ipynb
-│   ├── multiclass_analysis.ipynb
-│   ├── multiclass_model.ipynb
-│   └── preprocessing.ipynb
-│
-├── results/
-├── README.md
-├── requirements.txt
-└── backend.dockerfile
-```
-
----
-
 ## 📈 Project Status
 
 ### Completed
